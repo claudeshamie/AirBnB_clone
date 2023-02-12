@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+this is AirBnB_clone project more of this later
+=======
 The AirBnB Clone Project
 AirBnB Logo
 
@@ -146,3 +149,4 @@ Usage	<class name>.count()
 Authors
 Shamie Kapfudza <shamiekapfudza@gmail.com>
 Olasunkanmi Ajayi <greyajayi@yahoo.com>
+>>>>>>> 8ae31d71e3d75f1d2f87e421479c2a751a02f68d
