@@ -12,7 +12,10 @@ class BaseModel:
 
     def __init__(self, *args, **kwargs):
         """Initializes instance attributes
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8ae31d71e3d75f1d2f87e421479c2a751a02f68d
         Args:
             - *args: list of arguments
             - **kwargs: dict of key-values arguments
